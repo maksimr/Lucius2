@@ -231,6 +231,8 @@ hi SignColumn       ctermfg=145             ctermbg=233             cterm=none
 " line numbers
 hi LineNr           guifg=#818698           guibg=#202020
 hi LineNr           ctermfg=102             ctermbg=235
+hi CursorLineNr     ctermfg=11              guifg=Yellow
+hi CursorLineNr     term=none cterm=none gui=none
 " match parenthesis, brackets
 hi MatchParen       guifg=#00ff00           guibg=NONE              gui=bold
 hi MatchParen       ctermfg=46              ctermbg=NONE            cterm=bold
