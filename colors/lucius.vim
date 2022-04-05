@@ -320,10 +320,10 @@ hi PMenuThumb                               ctermbg=102             cterm=none
 " -----------
 " status line for current window
 hi StatusLine       guifg=#e0e0e0           guibg=#363946           gui=bold
-hi StatusLine       ctermfg=254             ctermbg=237             cterm=bold
+hi StatusLine       ctermfg=254             ctermbg=235             cterm=bold
 " status line for non-current windows
 hi StatusLineNC     guifg=#767986           guibg=#363946           gui=none
-hi StatusLineNC     ctermfg=244             ctermbg=237             cterm=none
+hi StatusLineNC     ctermfg=244             ctermbg=235             cterm=none
 
 
 " Tab Lines
