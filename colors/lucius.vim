@@ -33,6 +33,7 @@ hi Normal           guifg=#e0e0e0           guibg=#202020
 hi Normal           ctermfg=253             ctermbg=235
 
 
+
 " Comment Group
 " -------------
 " any comment
@@ -227,7 +228,7 @@ hi VertSplit        guifg=#777777           guibg=#363946           gui=none
 hi VertSplit        ctermfg=242             ctermbg=237             cterm=none
 " columns where signs are displayed (used in IDEs)
 hi SignColumn       guifg=#9fafaf           guibg=#181818           gui=none
-hi SignColumn       ctermfg=145             ctermbg=233             cterm=none
+hi SignColumn       ctermfg=145             ctermbg=235             cterm=none
 " line numbers
 hi LineNr           guifg=#818698           guibg=#202020
 hi LineNr           ctermfg=102             ctermbg=235
