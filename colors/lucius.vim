@@ -1,7 +1,4 @@
 " Vim color file
-" Maintainer:   Jonathan Filip <jfilip1024@gmail.com>
-" Last Modified: Thu Jan 21, 2010  10:57AM
-" Version: 3.2
 "
 " GUI / 256 color terminal
 "
@@ -319,8 +316,8 @@ hi PMenuThumb                               ctermbg=102             cterm=none
 " Status Line
 " -----------
 " status line for current window
-hi StatusLine       guifg=#e0e0e0           guibg=#363946           gui=bold
-hi StatusLine       ctermfg=254             ctermbg=235             cterm=bold
+hi StatusLine       guifg=#818698           guibg=#363946           gui=bold
+hi StatusLine       ctermfg=102             ctermbg=235             cterm=bold
 " status line for non-current windows
 hi StatusLineNC     guifg=#767986           guibg=#363946           gui=none
 hi StatusLineNC     ctermfg=244             ctermbg=235             cterm=none
